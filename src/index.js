@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AnimatedCursor from "./AnimatedCursor";
+import AnimatedReaction from "./AnimatedReaction";
 
-ReactDOM.render(<AnimatedCursor />, document.querySelector("#root"));
+ReactDOM.render(<AnimatedReaction />, document.querySelector("#root"));
